@@ -1,6 +1,6 @@
 import React from 'react';
 import Icon from './Icon';
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom';
 
 export default class LinkButton extends React.Component {
 
